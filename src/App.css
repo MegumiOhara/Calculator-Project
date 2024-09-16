@@ -7,6 +7,13 @@ body {
   background-color: lightblue;
 }
 
+.title{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
 .calculator {
   background-color: darkgray;
   width: 130px;
